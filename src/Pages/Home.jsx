@@ -17,7 +17,7 @@ const Home = () => {
                 </div>
                 ))}
         </div>
-        <div className='text-centrer mt-6'>
+        <div className='text-center mt-6'>
             <Link to='/products' className='bg-blue-600 text-white px-4 py-2 rounded'>
             View All Products
             </Link>
